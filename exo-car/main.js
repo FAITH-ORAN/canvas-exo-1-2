@@ -15,6 +15,7 @@ contexteCircle.lineWidth ='5';
 contexteCircle.fillStyle='gray';
 contexteCircle.arc(60,295,40,0,2*Math.PI);
 contexteCircle.fill();
+
 //rond 2
 var canvasCircle1 =document.getElementById("canvas1");
 var contexteCircle = canvasCircle1.getContext("2d");
